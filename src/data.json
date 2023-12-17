@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which river is the longest in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "answer": "Nile"
+  },
+  {
+    "id": 2,
+    "question": "What is the capital city of Japan?",
+    "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+    "answer": "Tokyo"
+  },
+  {
+    "id": 3,
+    "question": "Which mountain is the tallest in the world?",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+    "answer": "Mount Everest"
+  },
+  {
+    "id": 4,
+    "question": "In which continent is the Sahara Desert located?",
+    "options": ["Asia", "Africa", "South America", "Australia"],
+    "answer": "Africa"
+  },
+  {
+    "id": 5,
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 6,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "South Korea", "Japan", "Vietnam"],
+    "answer": "Japan"
+  },
+  {
+    "id": 7,
+    "question": "What is the official language of Brazil?",
+    "options": ["Portuguese", "Spanish", "French", "Italian"],
+    "answer": "Portuguese"
+  },
+  {
+    "id": 8,
+    "question": "Which desert is located in North America?",
+    "options": ["Gobi Desert", "Sahara Desert", "Sonoran Desert", "Atacama Desert"],
+    "answer": "Sonoran Desert"
+  },
+  {
+    "id": 9,
+    "question": "Which country is known as the 'Land of the Kiwis'?",
+    "options": ["Australia", "New Zealand", "Fiji", "Papua New Guinea"],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 10,
+    "question": "What is the capital city of Canada?",
+    "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "answer": "Ottawa"
+  }
+]
