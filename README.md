@@ -7,6 +7,8 @@
 
 </p>
 
+#### <a href="https://friendly-douhua-b2f490.netlify.app/">live site</a>
+
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
